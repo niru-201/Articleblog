@@ -1,0 +1,79 @@
+    .articleform{
+    width: 75%;
+    margin: 50px auto;
+    padding:7px;  
+    text-align: center;  
+    background-color: antiquewhite;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px solid black
+    }
+    body {
+        font-family:  sans-serif;
+        margin: 0;
+      }  
+    h2{
+        padding: 8px;
+        background: white;
+        border-radius: 8px;
+        margin: 0 auto;
+        font-size: 24px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif ;
+      }   
+    .inputval{
+        width:430px;
+        margin:20px auto;
+        padding:7px;
+        line-height: 1.5;
+    
+    }
+    .inputvald{
+        width:430px;
+        height:370px;
+        margin:20px auto;
+        padding:7px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    #confirmbtn{
+        background-color: rgb(53, 216, 53) ;
+        padding:7px;
+        margin-top: 10px;
+        width:200px;
+        font-size:20px;
+        font-weight: bold;
+        color:white;
+        text-align: center;
+    }
+    #backbtn{
+        background-color: rgb(255, 208, 0) ;
+        padding:7px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        width:200px;
+        font-size:20px;
+        font-weight: bold;
+        color:white;
+        text-align: center;
+    }
+    .input-group {
+        display: block;
+        margin: 10px auto 10px;
+      }
+    .file{
+        font-size:20px;  
+        width:430px;
+        margin:20px auto;
+        padding:7px;
+    } 
+      .text-input {
+        border: 1px solid black;
+        display: block;
+        width:430px;
+        margin:20px auto;
+        padding:7px;
+        font-size: 1.25rem;
+        line-height: 1.5;
+        border-radius: .3rem;
+      }

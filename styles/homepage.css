@@ -1,0 +1,32 @@
+h2{
+    padding: 8px;
+    background: white;
+    border-radius: 8px;
+    margin: 0 auto;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  h1 {
+    padding: 8px;
+    background: white;
+    border-radius: 8px;
+    margin: 0 auto;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  h3{
+    padding: 8px;
+    background: #202125;
+    border-radius: 8px;
+    margin: 0 auto;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  #content{
+    width:90%;
+    margin: 0 auto;
+  }
+  p{
+    line-height: 1.5;
+    font-size: 20px;
+  }

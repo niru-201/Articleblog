@@ -1,0 +1,84 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1.1em;
+  }
+  
+  th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #d3d3d3;
+  }
+  
+  #publishbtn{
+    background-color: rgb(30, 138, 44) ;
+    padding:5px;
+    width:160px;
+    height:45px;
+    font-size:16px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+  }
+  #viewbtn{
+    background-color: rgb(72, 74, 201) ;
+    padding:5px;
+    width:160px;
+    height:45px;
+    font-size:16px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+  }
+  #editbtn{
+    background-color: rgb(255, 208, 0) ;
+    padding:5px;
+    width:160px;
+    height:45px;
+    font-size:16px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+  }
+  #deletebtn{
+    background-color: rgb(240, 64, 11) ;
+    padding:5px;
+    width:160px;
+    height:45px;
+    font-size:16px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+  }
+  h2{
+    padding: 8px;
+    background: white;
+    border-radius: 8px;
+    margin: 0 auto;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  h1 {
+    padding: 8px;
+    background: white;
+    border-radius: 8px;
+    margin: 0 auto;
+    font-size: 44px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  h3{
+    padding: 8px;
+    background: #202125;
+    border-radius: 8px;
+    margin: 0 auto;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  #content{
+    width:90%;
+    margin: 0 auto;
+  }
+  p{
+    line-height: 1.5;
+    font-size: 18px;
+  }
